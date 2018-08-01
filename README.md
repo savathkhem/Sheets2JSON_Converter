@@ -1,13 +1,8 @@
-# Project Title
-
-Sheets 2 JSON Converter (In Development)
-
+# Sheets 2 JSON Converter (In Development)
 ## Description
-
 This web application is designed to import Google Sheets Documents and convert them into JSON files.
 
 ## ToDo's
-
 ### Phase 1 – Plan, Design
 - [ ] Design UI
 - [ ] Implement Firebase OAuth
@@ -26,11 +21,9 @@ This web application is designed to import Google Sheets Documents and convert t
 - [ ] Polish Readme
 
 ## Authors
-
 * **Savath Khem**
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
