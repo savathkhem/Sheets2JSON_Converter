@@ -11,7 +11,7 @@ This web application is designed to import Google Sheets Documents and convert t
 
 ### Phase 2 – Working Application
 - [ ] Working JSON converter
-- [ ] Working Download JSON file
+- [ ] Working Downloadable JSON file
 - [ ] Working Saving To Backend Function
 - [ ] Deployed in Heroku
 
