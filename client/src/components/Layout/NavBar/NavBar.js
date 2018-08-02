@@ -5,7 +5,7 @@ import { AppBar, Toolbar, Typography, IconButton, MenuItem, Menu, Button } from 
 
 const styles = {
   color: {
-    backgroundColor: '#0009',
+    backgroundColor: '#00000025',
   },
   flex: {
     flexGrow: 1,
@@ -43,7 +43,7 @@ class NavBar extends React.Component {
         <AppBar className={classes.color}>
           <Toolbar>
             <Typography variant="title" color="inherit" className={classes.flex}>
-              Sheet 2 JSON
+              SHEETS 2 JSON
             </Typography>
             {auth && (
               <div>
