@@ -1,4 +1,4 @@
 import NavBar from "./NavBar"
-// import Body from "./Body"
+import Body from "./Body"
 
-export { NavBar };
+export { NavBar, Body };

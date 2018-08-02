@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
-import { AppBar, Toolbar, Typography, IconButton, MenuItem, Menu, Button } from '@material-ui/core/';
+import { AppBar, Toolbar, Typography, MenuItem, Menu, Button } from '@material-ui/core/';
 
 const styles = {
   color: {
@@ -40,7 +40,7 @@ class NavBar extends React.Component {
     const open = Boolean(anchorEl);
 
     return (
-        <AppBar className={classes.color}>
+        <AppBar position="relative" className={classes.color}>
           <Toolbar>
             <Typography variant="title" color="inherit" className={classes.flex}>
               SHEETS 2 JSON
